@@ -1,0 +1,15 @@
+Reporting-MTA: dns; googlemail.com
+Arrival-Date: Tue, 21 Sep 2021 01:37:10 -0700 (PDT)
+X-Original-Message-ID: <CA+-ms4Mo6i7dhjeSsYftftGeMdOjfsEGH0ZFiOVajxpMu7E+Qg@mail.gmail.com>
+
+Final-Recipient: rfc822; noreply@github.com
+Action: delayed
+Status: 4.2.1
+Diagnostic-Code: smtp; 450-4.2.1 The user you are trying to contact is receiving mail at a rate that
+ 450-4.2.1 prevents additional messages from being delivered. Please resend your
+ 450-4.2.1 message at a later time. If the user is able to receive mail at that
+ 450-4.2.1 time, your message will be delivered. For more information, please
+ 450-4.2.1 visit
+ 450 4.2.1  https://support.google.com/mail/?p=ReceivingRate x19sor1046789plr.72 - gsmtp
+Last-Attempt-Date: Wed, 22 Sep 2021 02:33:51 -0700 (PDT)
+Will-Retry-Until: Fri, 24 Sep 2021 01:37:10 -0700 (PDT)
